@@ -8,6 +8,6 @@ Download these files and set your API key in popup.js "Your APILayer API Key"
 <img src="https://github.com/user-attachments/assets/b49d8904-6cd6-44f5-97e6-7dc33a7fb6f1" width="300" height="400"/>
 
 # APIs in use
-spell checker,
-text to emotion,
-translation
+Spell Checker,
+Text to Emotion,
+Language Translation
