@@ -5,6 +5,6 @@ This requires an API key from APIlayer.
 Download these files and set your API key in "Your APIlayer API Key"
 
 # The API in use
-spell checker
-text to emotion
+spell checker,
+text to emotion,
 translation
