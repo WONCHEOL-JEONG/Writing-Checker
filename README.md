@@ -11,3 +11,6 @@ Download these files and set your API key in popup.js "Your APILayer API Key"
 Spell Checker,
 Text to Emotion,
 Language Translation
+
+# APILayer
+https://apilayer.com/
