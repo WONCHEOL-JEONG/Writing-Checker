@@ -1,4 +1,4 @@
-# CheckYourWriting (Chrome Extension)
+# Check Your Writing (Chrome Extension)
 This will help you write better.
 Check the spelling and the emotion expressed in your writing. Translate Korean to English.
 This requires an API key from APILayer.
