@@ -1,5 +1,5 @@
 # Check your writing (Chrome Extension)
-This will help you write better.
+This program help you write better.
 Check the spelling and the emotion expressed in your writing. Translate Korean to English.
 This requires an API key from APILayer.
 Download these files and set your API key in popup.js "Your APILayer API key"
